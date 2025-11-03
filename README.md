@@ -30,5 +30,4 @@ def preco_iphone_simples():
             
     except Exception as e:
         print(f"❌ Erro: {e}")
-
 preco_iphone_simples()
